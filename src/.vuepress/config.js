@@ -42,8 +42,8 @@ module.exports = {
         link: '/config/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Github',
+        link: 'https://github.com/PatrickNiyogitare28/super-vite'
       }
     ],
     sidebar: {
