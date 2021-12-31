@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: The documentation for super vite, typescript react vite boilerplate
+tagline: A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, esLint Prettier, i18n internationalization & Dockerfile... built in cli coming soon 
 actionText: Quick Start →
 actionLink: /guide/
 features:

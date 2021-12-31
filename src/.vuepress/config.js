@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Super Vite Boiler Plate',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
