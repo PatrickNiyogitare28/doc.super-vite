@@ -3,7 +3,7 @@ home: true
 heroImage: https://github.com/PatrickNiyogitare28/doc.super-vite/blob/master/public/images/logo.png?raw=true
 tagline: A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind, esLint Prettier, i18n internationalization & Dockerfile... built in cli coming soon 
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /doc/
 features:
 - title: Redux Tool Kit
   details: State management tool inspired by redux
