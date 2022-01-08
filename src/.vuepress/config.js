@@ -34,12 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Doc',
+        link: '/doc/',
       },
       {
         text: 'Config',
-        link: '/guide/quick-start.html'
+        link: '/doc/quick-start.html'
       },
       {
         text: 'Github',
@@ -47,19 +47,28 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/doc/': [
         {
-          title: 'Guide',
+          title: 'Documentation',
           collapsable: false,
           children: [
             '',
             'quick-start',
             'layout',
+            'routing',
             'linters',
             'tests',
             'modules',
             'styles',
-            'redux-dev-tool'
+            'redux-dev-tool',
+            'i18n',
+            'services',
+            'helpers',
+            'enums',
+            'interfaces',
+            'types',
+            'assets',
+            'plugins'
           ]
         }
       ],
