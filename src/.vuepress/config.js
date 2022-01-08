@@ -39,7 +39,7 @@ module.exports = {
       },
       {
         text: 'Config',
-        link: '/config/'
+        link: '/guide/quick-start.html'
       },
       {
         text: 'Github',
@@ -58,7 +58,8 @@ module.exports = {
             'linters',
             'tests',
             'modules',
-            'styles'
+            'styles',
+            'redux-dev-tool'
           ]
         }
       ],
