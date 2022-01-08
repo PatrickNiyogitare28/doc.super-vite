@@ -54,6 +54,11 @@ module.exports = {
           children: [
             '',
             'quick-start',
+            'layout',
+            'linters',
+            'tests',
+            'modules',
+            'styles'
           ]
         }
       ],
