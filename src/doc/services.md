@@ -3,6 +3,7 @@
 The boiler plate provides the **services** directory for handling service based computations 
 > A function that calls a third party API is one of the functions that can be handled under services
 
+## Definition
 The alias for services `src/services` is `@services`
 
 Example
@@ -30,7 +31,7 @@ After building your service, the services are packaged together under `src/servi
 export * from './counter.service';
 ```
 
-## Utilizing a service
+## Utilization
 
 Using a service in a view
 ```tsx
