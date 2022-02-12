@@ -5,6 +5,8 @@
 <br>
 
 ![Tests Workflows](https://github.com/patrickniyogitare28/super-vite/actions/workflows/superlinter.yml/badge.svg)
+
+
 Super vite is A [vite] react typescript boilerplate with pre-configured `sass`, `redux-tool-kit`, `tailwind`, `esLint` `Prettier`, `i18n`    & Dockerfile plus built in cli coming soon.
 
 It provides out of the box configurations that speeds up the development. Getting started no configurations required
